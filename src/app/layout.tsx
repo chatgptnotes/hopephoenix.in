@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "HopePhoenix — AI-Powered Healthcare & Industrial Automation",
   description:
-    "HopePhoenix is the parent body of DrM Hope Softwares and Bettroi FZE, delivering cutting-edge AI solutions for healthcare, industrial automation, and enterprise transformation across India and UAE.",
+    "HopePhoenix is a joint venture between DrM Hope Softwares and Bettroi FZE, delivering cutting-edge AI solutions for healthcare, industrial automation, and enterprise transformation across India and UAE.",
   keywords: [
     "HopePhoenix",
     "AI Healthcare",

@@ -51,11 +51,11 @@ export default function Companies() {
           </span>
           <h2 className="text-4xl sm:text-5xl font-bold mt-3 mb-4">
             Two Companies.{" "}
-            <span className="gradient-text">One Vision.</span>
+            <span className="gradient-text">One Joint Venture.</span>
           </h2>
           <p className="text-gray-400 max-w-2xl mx-auto">
-            HopePhoenix unites world-class engineering from India with
-            global commercial reach from the UAE.
+            A joint venture uniting world-class engineering from India with
+            global commercial reach from the UAE — jointly owned, jointly driven.
           </p>
         </div>
 

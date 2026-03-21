@@ -21,9 +21,9 @@ export default function Hero() {
         </h1>
 
         <p className="text-lg sm:text-xl text-gray-400 max-w-2xl mx-auto mb-10 leading-relaxed">
-          HopePhoenix is the parent body of{" "}
+          HopePhoenix is a joint venture between{" "}
           <span className="text-white font-medium">DrM Hope Softwares</span> and{" "}
-          <span className="text-white font-medium">Bettroi FZE</span> — building
+          <span className="text-white font-medium">Bettroi FZE</span> — jointly building
           AI-powered solutions that transform hospitals, factories, and enterprises
           across India and the UAE.
         </p>
