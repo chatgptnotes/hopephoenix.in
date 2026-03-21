@@ -8,23 +8,27 @@ export default function About() {
             About HopePhoenix
           </span>
           <h2 className="text-4xl sm:text-5xl font-bold mt-3 mb-4">
-            The Surgeon Who{" "}
-            <span className="gradient-text">Codes with AI</span>
+            Two Visionaries.{" "}
+            <span className="gradient-text">One Mission.</span>
           </h2>
         </div>
 
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div>
             <p className="text-gray-300 leading-relaxed mb-6 text-lg">
-              Founded by <span className="text-white font-semibold">Dr. B.K. Murali</span> — an
-              orthopedic surgeon turned AI engineer — HopePhoenix bridges the gap
-              between clinical expertise and cutting-edge technology.
+              HopePhoenix is co-founded by{" "}
+              <span className="text-white font-semibold">Biji Thomas (BT)</span> and{" "}
+              <span className="text-white font-semibold">Dr. B.K. Murali</span> — combining
+              deep business expertise with hands-on engineering and clinical experience
+              to bridge the gap between industry and technology.
             </p>
             <p className="text-gray-400 leading-relaxed mb-6">
-              With over 15 years of experience in both medicine and software
-              engineering, Dr. Murali leads a team of 100+ engineers across India
-              and the UAE, building products that solve real problems in hospitals,
-              factories, and enterprises.
+              <span className="text-white font-medium">Biji Thomas</span> brings strategic
+              vision, global business development, and enterprise leadership from the UAE,
+              while <span className="text-white font-medium">Dr. Murali</span> — an orthopedic
+              surgeon turned AI engineer — brings 15+ years of medical and software
+              engineering expertise from India. Together, they lead a team of 100+ engineers,
+              building products that solve real problems in hospitals, factories, and enterprises.
             </p>
             <p className="text-gray-400 leading-relaxed mb-8">
               Our philosophy is simple: <span className="text-orange-400 font-medium">technology should serve humanity</span>.

@@ -5,7 +5,7 @@ const companies = [
     url: "https://drmhope.com",
     location: "Nagpur, India",
     description:
-      "The engineering powerhouse. Founded in 2010 by Dr. B.K. Murali — a surgeon who codes with AI. DrM Hope builds all the technology products, from AI healthcare platforms to industrial IoT systems.",
+      "The engineering powerhouse based in Nagpur, India. DrM Hope builds all the technology products — from AI healthcare platforms to industrial IoT systems — led by Dr. B.K. Murali.",
     highlights: [
       "Full-stack AI development",
       "Healthcare IT specialists",
@@ -25,7 +25,7 @@ const companies = [
     url: "https://bettroi.com",
     location: "UAE (Free Zone)",
     description:
-      "The commercial arm. Bettroi packages and delivers AI solutions to enterprises across the Middle East and globally — from oil & gas to healthcare to customer experience.",
+      "The commercial and strategy arm based in UAE, led by Biji Thomas (BT). Bettroi packages and delivers AI solutions to enterprises across the Middle East and globally — from oil & gas to healthcare to customer experience.",
     highlights: [
       "Enterprise AI solutions",
       "Oil & Gas automation",

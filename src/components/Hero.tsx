@@ -9,7 +9,7 @@ export default function Hero() {
       <div className="relative z-10 max-w-5xl mx-auto px-4 text-center pt-24">
         <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-orange-500/10 border border-orange-500/20 text-orange-400 text-sm mb-8">
           <span className="w-2 h-2 rounded-full bg-orange-500 animate-pulse" />
-          Engineering the Future of Healthcare & Automation
+          Co-founded by Biji Thomas & Dr. Murali BK
         </div>
 
         <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold leading-tight mb-6">
